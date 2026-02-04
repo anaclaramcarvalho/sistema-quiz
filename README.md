@@ -1,6 +1,6 @@
 *PROJETO QUIZ - SISTEMA DE GESTÃO DE QUESTIONÁRIOS*
 
-Este sistema foi desenvolvido como parte da disciplina de LIPAI (Linguagem de Interface para Programas de Inteligência Artificial). O objetivo é gerenciar o ciclo de vida de questionários interativos, desde o cadastro de perguntas até a análise de desempenho dos usuários.
+Este sistema foi desenvolvido como parte do Onboarding da LIPAI . O objetivo é gerenciar o ciclo de vida de questionários interativos, desde o cadastro de perguntas até a análise de desempenho dos usuários.
 
 *DESCRIÇÃO DO PROBLEMA*
 
